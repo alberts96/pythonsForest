@@ -75,7 +75,7 @@ for x in a:
     inserting  6 : 
 
 
-![png](output_5_1.png)
+![png](outputs/output_5_1.png)
 
 
     
@@ -89,56 +89,56 @@ for x in a:
     inserting  11 : 
 
 
-![png](output_5_5.png)
+![png](outputs/output_5_5.png)
 
 
     
     inserting  12 : 
 
 
-![png](output_5_7.png)
+![png](outputs/output_5_7.png)
 
 
     
     inserting  26 : 
 
 
-![png](output_5_9.png)
+![png](outputs/output_5_9.png)
 
 
     
     inserting  1 : 
 
 
-![png](output_5_11.png)
+![png](outputs/output_5_11.png)
 
 
     
     inserting  8 : 
 
 
-![png](output_5_13.png)
+![png](outputs/output_5_13.png)
 
 
     
     inserting  9 : 
 
 
-![png](output_5_15.png)
+![png](outputs/output_5_15.png)
 
 
     
     inserting  12 : 
 
 
-![png](output_5_17.png)
+![png](outputs/output_5_17.png)
 
 
     
     inserting  32 : 
 
 
-![png](output_5_19.png)
+![png](outputs/output_5_19.png)
 
 
     
