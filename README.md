@@ -41,7 +41,7 @@ print("The successor of the least value is: ",bst.successor(bst.min()))
 ```
 
 
-![png](output_3_0.png)
+![png](outputs/output_3_0.png)
 
 
     
@@ -82,7 +82,7 @@ for x in a:
     inserting  24 : 
 
 
-![png](output_5_3.png)
+![png](outputs/output_5_3.png)
 
 
     
